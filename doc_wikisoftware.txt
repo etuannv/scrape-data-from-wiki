@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/List_of_Macintosh_software
+
+Data format (https://docs.google.com/spreadsheets/d/1dNjme9Z_XG6jIptUh3wjfOhBM5fD1-W-tmzHbzKRIdk/edit#gid=0)
+url
+category
+title
+description
+developer
+developer_url
+stable_release
+supported_os
+type
+License
